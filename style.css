@@ -1,0 +1,28 @@
+a{
+    text-decoration: underline!important;
+}
+
+.fa{
+    color: blue;
+}
+
+.box{
+    background-color: grey;
+    padding: 20px 5px;
+}
+
+.boxpart{
+    background-color: white;
+    margin:15px 20px 25px 20px;
+    width: 280px;
+    padding:40px 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+
+
+
+
+
+
